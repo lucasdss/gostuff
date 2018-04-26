@@ -1,5 +1,6 @@
 # gostuff
 
+[Allocation Efficiency in High-Performance Go Services](https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/)
 
 [Package Oriented Design](https://www.ardanlabs.com/blog/2017/02/package-oriented-design.html)
 
